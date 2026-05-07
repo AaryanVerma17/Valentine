@@ -2,8 +2,6 @@
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/MohamedDine/pen/XJWWery](https://codepen.io/MohamedDine/pen/XJWWery).
-
 Features :
 
 Multiple Questions:
